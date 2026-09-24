@@ -1,4 +1,4 @@
-# Avaliando agentes de IA — v0 com código
+# Avaliando agentes de IA: v0 com código
 
 Projeto mínimo e autossuficiente pra quem está começando a explorar
 avaliação de agentes de IA. Acompanha o artigo "Avaliação de agentes de IA:
